@@ -8,7 +8,9 @@ We considered 2 database:
   1. 6222 Region of Interest (ROI), of which 6002 are from the Broad Bioimage Benchmark Collection (BBBC),
   2. 220 Region of interest were acquired locally by us at Fundaãoo Oswaldo Cruz (FIOCRUZ) in Porto Velho Velho, Rondônia - Brazil, which is part of the legal Amazon. 
   
-We exhaustively cross-validated the dataset using 100 distinct partitions with 80% train and 20% test for each considering circular ROIs (rough segmentation). 
+We exhaustively cross-validated the dataset using 100 distinct partitions with 80% train and 20% test for each considering circular ROIs (rough segmentation), as presente in the following workflow:
+![image](https://github.com/JonathanRamos/PlasmodiumAI/assets/3834596/21f0552c-7dd0-40b4-95e2-3ee943c96f50)
+
 
 Our experimental results show that DenseNet201 has a potential to identify Plasmodium parasites in ROIs (infected or uninfected) of microscopic images, achieving 99.41% AUC with a fast processing time. 
 
