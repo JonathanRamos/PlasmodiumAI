@@ -10,7 +10,7 @@ We considered 2 database:
   3. 220 Region of interest were acquired locally by us at Fundaãoo Oswaldo Cruz (FIOCRUZ) in Porto Velho Velho, Rondônia - Brazil, which is part of the legal Amazon.
      -  Folder [Datasets/FIOCRUZ/Exams ](Datasets/FIOCRUZ/Exams)
   
-We exhaustively cross-validated the dataset using 100 distinct partitions with 80% train and 20% test for each considering circular ROIs (rough segmentation), as presente in the following workflow:
+We exhaustively cross-validated the dataset using 100 distinct partitions [Partitions](\Partitions) with 80% train and 20% test for each considering circular ROIs (rough segmentation), as presented in the following workflow:
 ![image](https://github.com/JonathanRamos/PlasmodiumAI/assets/3834596/21f0552c-7dd0-40b4-95e2-3ee943c96f50)
 
 
