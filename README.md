@@ -5,7 +5,7 @@
 In this work, we assess the transfer learning approach by using well-known pre-trained deep learning architectures. 
 
 We considered 2 database:
-  1. 6222 Region of Interest (ROI), of which 6002 are from the Broad Bioimage Benchmark Collection (BBBC): Folder [Database ]
+  1. 6222 Region of Interest (ROI), of which 6002 are from the Broad Bioimage Benchmark Collection (BBBC): Folder [Datasets/BBBC/Exams ]
   2. 220 Region of interest were acquired locally by us at Fundaãoo Oswaldo Cruz (FIOCRUZ) in Porto Velho Velho, Rondônia - Brazil, which is part of the legal Amazon. 
   
 We exhaustively cross-validated the dataset using 100 distinct partitions with 80% train and 20% test for each considering circular ROIs (rough segmentation), as presente in the following workflow:
