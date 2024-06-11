@@ -11,7 +11,8 @@ We considered 2 database:
      -  Folder [Datasets/FIOCRUZ/Exams ](../../tree/master/Datasets/Exams/FIOCRUZ)
   
 We exhaustively cross-validated the dataset using 100 distinct [Partitions](../../tree/master/Partitions) with 80% train and 20% test for each considering circular ROIs (rough segmentation), as presented in the following workflow:
-![image](https://github.com/JonathanRamos/PlasmodiumAI/assets/3834596/21f0552c-7dd0-40b4-95e2-3ee943c96f50)
+![image](https://github.com/JonathanRamos/PlasmodiumAI/assets/3834596/54e31882-c9e0-4bc2-bac2-249d56e33187)
+
 
 
 Our experimental results show that DenseNet201 has a potential to identify Plasmodium parasites in ROIs (infected or uninfected) of microscopic images, achieving 99.41% AUC with a fast processing time, as shown in the next figure: 
