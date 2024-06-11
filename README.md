@@ -6,11 +6,11 @@ In this work, we assess the transfer learning approach by using well-known pre-t
 
 We considered 2 database:
   1. 6222 Region of Interest (ROI), of which 6002 are from the Broad Bioimage Benchmark Collection (BBBC);
-     - Folder [Datasets/BBBC/Exams](../../Datasets/Exams/BBBC)
+     - Folder [Datasets/BBBC/Exams](../../tree/master/Datasets/Exams/BBBC)
   3. 220 Region of interest were acquired locally by us at Fundaãoo Oswaldo Cruz (FIOCRUZ) in Porto Velho Velho, Rondônia - Brazil, which is part of the legal Amazon.
-     -  Folder [Datasets/FIOCRUZ/Exams ](../../Datasets/Exams/FIOCRUZ)
+     -  Folder [Datasets/FIOCRUZ/Exams ](../../tree/master/Datasets/Exams/FIOCRUZ)
   
-We exhaustively cross-validated the dataset using 100 distinct [Partitions](../../Partitions) with 80% train and 20% test for each considering circular ROIs (rough segmentation), as presented in the following workflow:
+We exhaustively cross-validated the dataset using 100 distinct [Partitions](../../tree/master/Partitions) with 80% train and 20% test for each considering circular ROIs (rough segmentation), as presented in the following workflow:
 ![image](https://github.com/JonathanRamos/PlasmodiumAI/assets/3834596/21f0552c-7dd0-40b4-95e2-3ee943c96f50)
 
 
