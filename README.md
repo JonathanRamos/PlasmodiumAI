@@ -29,7 +29,7 @@ We further validated our results, showing that DenseNet201 was significantly bet
 **If you use any part of this repository, please cite:**
 
 ```
-Ramos, et al. FA transfer learning approach to identify *Plasmodium* in microscopic images. Journal here, 2024.
+Ramos, et al. A transfer learning approach to identify *Plasmodium* in microscopic images. Journal here, 2024.
 ```
 
 We made avaiable all our codes, datasets and results as follows:
