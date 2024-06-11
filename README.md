@@ -15,6 +15,8 @@ We exhaustively cross-validated the dataset using 100 distinct [Partitions](../.
 
 
 Our experimental results show that DenseNet201 has a potential to identify Plasmodium parasites in ROIs (infected or uninfected) of microscopic images, achieving 99.41% AUC with a fast processing time, as shown in the next figures: 
+![image](https://github.com/JonathanRamos/PlasmodiumAI/assets/3834596/9fe06198-1c39-4ff3-9016-7d8b3dc3ce84)
+
 
 
 We further validated our results, showing that DenseNet201 was significantly better (99% confidence interval) than the other networks considered in the experiment. Our results support claiming that transfer learning with texture features potentially differentiates subjects with malaria, spotting those with Plasmodium even in Leukocytes images, which is a challenge. In Future work, we intend scale our approach by adding more data and developing a friendly user interface for CAD use. We aim at aiding the worldwide population and our local natives living nearby the legal Amazon's rivers
