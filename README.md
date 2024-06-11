@@ -27,8 +27,8 @@ Ramos, et al. FA transfer learning approach to identify *Plasmodium* in microsco
 
 We made avaiable all our codes, datasets and results as follows:
 - [Algorithms and codes](Codes/OldMatlab)
-- [Image Datasets](ImageDatasets)
-- [Results](Results)
+- [Image Datasets](../../tree/master/Datasets)
+- [Results](../../tree/master/Metrics)
 
 
 
