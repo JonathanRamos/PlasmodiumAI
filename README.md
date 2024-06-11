@@ -7,6 +7,7 @@ In this work, we assess the transfer learning approach by using well-known pre-t
 We considered 2 database:
   1. 6222 Region of Interest (ROI), of which 6002 are from the Broad Bioimage Benchmark Collection (BBBC);
      - Folder [Datasets/BBBC/Exams](../../tree/master/Datasets/Exams/BBBC)
+     - Source https://bbbc.broadinstitute.org/BBBC041
   3. 220 Region of interest were acquired locally by us at Fundaãoo Oswaldo Cruz (FIOCRUZ) in Porto Velho Velho, Rondônia - Brazil, which is part of the legal Amazon.
      -  Folder [Datasets/FIOCRUZ/Exams ](../../tree/master/Datasets/Exams/FIOCRUZ)
   
