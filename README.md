@@ -1,5 +1,6 @@
 # A transfer learning approach to identify *Plasmodium* in microscopic images
-Plasmodium parasites cause Malaria disease; P. falciparum and P. vivax remain the two main malaria species affecting humans. Identifying the malaria disease in blood smears requires years of expertise, even for highly trained specialists. 
+
+*Plasmodium* parasites cause Malaria disease; *P. falciparum* and *P. vivax* remain the two main malaria species affecting humans. Identifying the malaria disease in blood smears requires years of expertise, even for highly trained specialists. 
 
 In this work, we assess the transfer learning approach by using well-known pre-trained deep learning architectures. 
 
@@ -17,7 +18,7 @@ We further validated our results, showing that DenseNet201 was significantly bet
 **If you use any part of this repository, please cite:**
 
 ```
-Ramos, et al. FA transfer learning approach to identify \textit{Plasmodium} in microscopic images. Journal here, 2024.
+Ramos, et al. FA transfer learning approach to identify *Plasmodium* in microscopic images. Journal here, 2024.
 ```
 
 We made avaiable all our codes, datasets and results as follows:
